@@ -1,35 +1,35 @@
 # Readme for Group \#5
 
-**Project Title** <br>
+### Project Title: 
 Kitchen Counter
 
-**Team/Product Name** <br>
+### Team/Product Name: 
 Team 5
 Kitchen Counter - Inventory Tracking Software
 
-**Team Members** <br>
-Nicole Cosmany <br>
-ncosmany <br>
+**Team Members** 
+Nicole Cosmany 
+ncosmany 
 nico3601@colorado.edu
 
-Stephen Tynan <br>
-Stephentynan <br>
+Stephen Tynan 
+Stephentynan 
 stty1424@colorado.edu
 
-Cole Akers <br>
-Wiak0179 <br>
+Cole Akers 
+Wiak0179 
 wiak0179@colorado.edu
 
-Patrick Ridley <br>
-Pari8094 <br>
+Patrick Ridley 
+Pari8094 
 pari8094@colorado.edu
 
-Evan Embry <br>
-evanembry <br>
+Evan Embry 
+evanembry 
 evem6983@colorado.edu
 
 
-**Risks to Project Completion**  
+### Risks to Project Completion:
 
 1. A large number of possible features could lead to snowballing task numbers.  
 2. Limited timeframe, needs to be completed by the end of the semester.  
@@ -37,7 +37,7 @@ evem6983@colorado.edu
 4. Potential time constraints, jobs, other classes.  
 5. Lack of experience in SQL implementation.  
 
-**Mitigation Strategy for Above Risks**  
+### Mitigation Strategy for Above Risks:  
 
 1. Clear direction and agreement on included features.  
 2. Sprints have clear objectives and deadlines are met.  
