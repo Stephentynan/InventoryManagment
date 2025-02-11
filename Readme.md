@@ -43,6 +43,7 @@ evem6983@colorado.edu
 2. Sprints have clear objectives and deadlines are met.  
 3. Research and sharing knowledge in team meetings.  
 4. Adapting to the plan as needed to ensure quality over quantity.  
+5. Research and group problem resolution.
 
 ### Development method:
 We are planning to follow the Agile methodology with weekly “standup” meetings via Zoom which correspond to our one week sprints.
