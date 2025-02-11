@@ -7,7 +7,7 @@ Kitchen Counter
 Team 5
 Kitchen Counter - Inventory Tracking Software
 
-**Team Members** 
+### Team Members: 
 Nicole Cosmany 
 ncosmany 
 nico3601@colorado.edu
