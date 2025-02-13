@@ -28,13 +28,16 @@ Evan Embry
 evanembry 
 evem6983@colorado.edu
 
-### Team Weekly Meeting: 
+### Day/Time/TimeZone for the scheduled team weekly meeting:
 
-<div style="margin-left: 10px;">
-    <p>
-Mondays 6:15 pm MST
-    </p>
-</div>
+Mondays 6:15 pm MST 
+
+### Vision statement: 
+
+We will create a dynamic inventory management system to allow customers to view products for purchase and suppliers to manage inventory. From the customer’s perspective, they will be able to browse both available and out of stock products on the website. If an item is out of stock, the system will provide an estimated delivery time. There will also be a vendor portal where stock can be updated and prices adjusted. Stock that is purchased by a customer will automatically be removed from current inventory. 
+There will also be an “abandoned cart” feature where the customers can create concepts/carts that will mark products as “pending purchase” and notify them when stock is low.  The goal is to notify customers when stock becomes low so they are encouraged to purchase or plan accordingly. Also, the plan feature will be displayed on the vendor portal so suppliers can plan future orders and marketing strategies. 
+
+
 
 
 ### Motivation:
