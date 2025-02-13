@@ -28,6 +28,15 @@ Evan Embry
 evanembry 
 evem6983@colorado.edu
 
+### Day/Time/TimeZone for the scheduled team weekly meeting:
+
+<div style="margin-left: 10px;">
+    <p>
+   Day/Time/TimeZone for the scheduled team weekly meeting:
+Mondays 6:15 pm MST 
+
+
+
 ### Motivation:
 
 <div style="margin-left: 10px;">
