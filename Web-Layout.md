@@ -3,6 +3,28 @@
 Lucid chart showing the flow of our webpages: <br>
 <img src="webLayout.png" alt="Image description" width="500">
 
+<h1>Homepage:</h1>
+<p>
+The <b>Homepage</b> serves as the main entry point for users, providing navigation to various sections of the website.
+</p>
+<p>
+- A welcoming banner with a brief introduction.<br>
+- Quick links to the <b>Customer Portal</b>, <b>Products Page</b>, and <b>Profile Page</b>.<br>
+- Featured products or promotions.<br>
+- Picture, Memo, Goals.
+</p>
+
+<h1>Products Page:</h1>
+<p>
+The <b>Products Page</b> displays a catalog of available items with detailed descriptions and purchasing options.
+</p>
+<p>
+- <b>Product Listings:</b> Images, names, prices, and short descriptions.<br>
+- <b>Filters & Sorting:</b> Allow customers to refine search results by price, category, or popularity.<br>
+- <b>Add to Cart Button:</b> Enables quick purchases.<br>
+- <b>Three categories</b> including pictures, links to product.
+</p>
+
 <h1>Customer Portal Page:</h1>
 <p>
 The Charts will pull from the database to populate
