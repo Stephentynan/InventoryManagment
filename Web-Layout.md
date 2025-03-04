@@ -26,8 +26,8 @@ The <b>Products Page</b> displays a catalog of available items with detailed des
 - <b>Three categories</b> including pictures, links to product.
 </p>
 <h4> Parameters needed: </h4><p>
-    - Dict? item info: price, picture location, details, etc
-    - Int or double? customer price level.
+    - Dict? item info: price, picture location, details, etc <br>
+    - Int or double? customer price level. <br>
 </p>
 <h4> Data Needed to load page: </h4><p>
     - User Database<br>
